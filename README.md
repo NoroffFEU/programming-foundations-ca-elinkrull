@@ -4,10 +4,10 @@
 
 #coffeemaker
 
-// - Brand (string), is the manufactor of the object
-// - Volume (number), is the capacity in litres
-// - Price (number), is what the object costs in Norwegian kroners
-// - Weight (number), is what the object weights in kilograms
-// - On (boolian), when boolian "on" is false, the coffee maker is not turned on
-// - Color (array), is the different colours the coffee maker is made in
-// - Ignition (function), the coffee maker can be turned on or off
+Brand (string), is the manufactor of the object
+Volume (number), is the capacity in litres
+Price (number), is what the object costs in Norwegian kroners
+Weight (number), is what the object weights in kilograms
+On (boolian), when boolian "on" is false, the coffee maker is not turned on
+Color (array), is the different colours the coffee maker is produced in
+Switch (function), switch can be turned on or off

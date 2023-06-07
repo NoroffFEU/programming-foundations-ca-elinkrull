@@ -6,7 +6,7 @@ const coffemaker = {
     weight: 3.9
     on: false
     color: ["black", "white", "green", "blue", "grey", "red"] 
-    ignition: function () {
+    switch: function () {
         coffemaker.on = !coffemaker.on
     }
 }
